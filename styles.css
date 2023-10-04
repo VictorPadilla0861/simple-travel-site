@@ -1,6 +1,9 @@
 *{
 background-color: #6DAEDB;
 text-align: center;
+margin: 5px;
+border-radius: 20px;
+  
 
 
 }
@@ -11,9 +14,7 @@ img{
 }
 
 header {
-    text-decoration: dashed;
-}
-
+    text-size-adjust: 100px;}
 nav{
     display: flex;
     justify-content: center;
@@ -24,7 +25,32 @@ ul{
     justify-content: center;
 }
 
+p::first-letter {
+    color: blue;
+    float: left;
+    font-size: 2.6em;
+    font-weight: bold;
+    line-height: 1;
+    margin-inline-end: 0.2rem;
+  }
+
+p{
+    text-decoration-style: double;
+   font-size: large;
+}
+
+
+
 li{
     margin-left: 250cm;
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+.flyingcities{
+    white-space: 100px;
+    width: 800px;
 }
 
