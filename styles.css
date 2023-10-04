@@ -26,7 +26,7 @@ ul{
 }
 
 p::first-letter {
-    color: blue;
+    color:red;
     float: left;
     font-size: 2.6em;
     font-weight: bold;
@@ -51,6 +51,6 @@ h2{
 
 .flyingcities{
     white-space: 100px;
-    width: 800px;
+    
 }
 
