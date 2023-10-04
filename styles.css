@@ -42,7 +42,10 @@ h2{
 }
 
 .flyingcities{
-    white-space: 100px;
-    width: 800px;
+    background-color: bisque;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+
 }
 
