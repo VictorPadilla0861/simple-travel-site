@@ -1,0 +1,30 @@
+*{
+background-color: #6DAEDB;
+text-align: center;
+
+
+}
+
+img{
+    padding: 15px ;
+    
+}
+
+header {
+    text-decoration: dashed;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    margin-left: 250cm;
+}
+
