@@ -25,6 +25,9 @@ ul{
     justify-content: center;
 }
 
+body{
+    padding-bottom: 15px;
+}
 
 p{
     text-decoration-style: double;
@@ -42,10 +45,9 @@ h2{
 }
 
 .flyingcities{
+    display: flex;
     background-color: bisque;
     justify-content: space-between;
-    flex-wrap: wrap;
-
-
+    align-items: flex-end;
 }
 
