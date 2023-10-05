@@ -44,10 +44,17 @@ h2{
     text-transform: capitalize;
 }
 
-.flyingcities{
+.flyingcities1{
     display: flex;
     background-color: bisque;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.flyingcities2{
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
     align-items: flex-end;
 }
 
